@@ -4,10 +4,6 @@
 
   <br><br>
 
-  ![Metrics](https://github-profile-trophy.vercel.app/?username=dreverrse&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10)
-
-  <br><br>
-
   ## 🚀 About Me
 
   💻 **Full-Stack Developer** | 🎨 **UI/UX Enthusiast** | ☕ **Coffee Addict**
