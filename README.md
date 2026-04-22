@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+[Your+Name];Full-Stack+Developer;Passionate+about+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Andre Firmansah;Full-Stack+Developer;Passionate+about+Open+Source" alt="Typing SVG" />
 
   <br><br>
 
-  ![Metrics](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10)
+  ![Metrics](https://github-profile-trophy.vercel.app/?username=dreverrse&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10)
 
   <br><br>
 
@@ -12,7 +12,7 @@
 
   💻 **Full-Stack Developer** | 🎨 **UI/UX Enthusiast** | ☕ **Coffee Addict**
 
-  - 🔭 Currently working on [Your Current Project]
+  - 🔭 Currently working on Dev Web
   - 🌱 Learning: Next.js 15, Tailwind CSS, Docker
   - 👯 Open to collaborate on Open Source projects
   - 💬 Ask me about React, Node.js, TypeScript
@@ -45,24 +45,24 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreverrse&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreverrse&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreverrse&theme=radical&hide_border=true" alt="streak" />
 </div>
 
 ## 💼 Current Projects
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=radical)](https://github.com/YOUR_USERNAME/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=radical)](https://github.com/YOUR_USERNAME/project2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=dreverrse&repo=project1&theme=radical)](https://github.com/dreverrse/project1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=dreverrse&repo=project2&theme=radical)](https://github.com/dreverrse/project2)
 
 </div>
 
