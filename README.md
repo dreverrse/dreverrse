@@ -1,41 +1,79 @@
-<p align="center">
-  <h1>Welcome to my Git 👋</h1>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://i.ibb.co/0QBDJxQ/katokato.jpg"  />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+[Your+Name];Full-Stack+Developer;Passionate+about+Open+Source" alt="Typing SVG" />
 
-<br>
+  <br><br>
 
-<p align="center">
-  <a href="https://github.com/dreverrse"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=elxxena&show_icons=true&theme=dark#gh-dark-mode-only"></a>
-  <a href="https://github.com/dreverrse"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=elxxenaz&theme=dark#gh-dark-mode-only&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-<p>
+  ![Metrics](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10)
 
-<br>
+  <br><br>
 
-<p align="center">
-  <a href="https://github.com/dreverrse?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fdreverrse"/></a>
-  <a href="https://github.com/dreverrse?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/elxxena?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/dreverrse">
-  <a href="https://github.com/dreverrse?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
+  ## 🚀 About Me
 
-<br>
+  💻 **Full-Stack Developer** | 🎨 **UI/UX Enthusiast** | ☕ **Coffee Addict**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
-  <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
-</p>
+  - 🔭 Currently working on [Your Current Project]
+  - 🌱 Learning: Next.js 15, Tailwind CSS, Docker
+  - 👯 Open to collaborate on Open Source projects
+  - 💬 Ask me about React, Node.js, TypeScript
+  - ⚡ Fun fact: I code better with lo-fi beats!
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="streak" />
+</div>
+
+## 💼 Current Projects
+
+<div align="center">
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=radical)](https://github.com/YOUR_USERNAME/project1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=radical)](https://github.com/YOUR_USERNAME/project2)
+
+</div>
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+<div align="center">
