@@ -1,75 +1,115 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Andre+Firmansah;Full-Stack+Developer;Passionate+about+Open+Source" alt="Typing SVG" />
-
-  <br><br>
-
-  ## 🚀 About Me
-
-  💻 **Full-Stack Developer** | 🎨 **UI/UX Enthusiast** | ☕ **Coffee Addict**
-
-  - 🔭 Currently working on Dev Web
-  - 🌱 Learning: Next.js 15, Tailwind CSS, Docker
-  - 👯 Open to collaborate on Open Source projects
-  - 💬 Ask me about React, Node.js, TypeScript
-  - ⚡ Fun fact: I code better with lo-fi beats!
-
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · dreverrse</sub></p>
+<h1>Andre Firmansah</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>I use Arch, btw</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Toktyo, Japan · Building at @dreverrse</sub></p>
+<p><a href="https://github.com/dreverrse">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/63025746?u=b1e3f52f1e98a8c7a33825e72f1fe64b5b974abf&amp;v=4" width="180" alt="Andre Firmansah GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-## 🛠️ Tech Stack
+<h2>What teams can evaluate quickly</h2>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · JavaScript · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>37 repositories · 2 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>461 contributions · 42 active days</p></td>
+</tr>
+</table>
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+<p><sub>I use Arch, btw</sub></p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<h2>Proof at a glance</h2>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>37</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>461</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>10</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dreverrse&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63025746%3Fu%3Db1e3f52f1e98a8c7a33825e72f1fe64b5b974abf%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=dreverrse&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63025746%3Fu%3Db1e3f52f1e98a8c7a33825e72f1fe64b5b974abf%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Andre Firmansah GitHub proof metrics" />
+</picture>
+</p>
 
-## 📊 GitHub Stats
+<h2>Selected work</h2>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dreverrse&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63025746%3Fu%3Db1e3f52f1e98a8c7a33825e72f1fe64b5b974abf%26v%3D4&repos=dreverrse%2Fcodenime.xyz%2Cdreverrse%2Fdreverrse%2Cdreverrse%2Fhootch-owner-console%2Cdreverrse%2Fpochi-gateway&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=dreverrse&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63025746%3Fu%3Db1e3f52f1e98a8c7a33825e72f1fe64b5b974abf%26v%3D4&repos=dreverrse%2Fcodenime.xyz%2Cdreverrse%2Fdreverrse%2Cdreverrse%2Fhootch-owner-console%2Cdreverrse%2Fpochi-gateway&v=recruiter-projects-1&mode=dark" width="100%" alt="Andre Firmansah selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/dreverrse/codenime.xyz">codenime.xyz</a></h3>
+<p>Build with next js and chakra ui</p>
+<p><sub>TypeScript · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/dreverrse/codenime.xyz">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreverrse&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/dreverrse/dreverrse">dreverrse</a></h3><p>Config files for my GitHub profile.</p><p><sub>Open source · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/dreverrse/hootch-owner-console">hootch-owner-console</a></h3><p>Hootch Owner Console</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/dreverrse/pochi-gateway">pochi-gateway</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreverrse&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<h2>Technical toolkit</h2>
 
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dreverrse&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63025746%3Fu%3Db1e3f52f1e98a8c7a33825e72f1fe64b5b974abf%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=dreverrse&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63025746%3Fu%3Db1e3f52f1e98a8c7a33825e72f1fe64b5b974abf%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Andre Firmansah technology stack" />
+</picture>
+</p>
 
-## 🔥 Streak Stats
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>85% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>Kotlin</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreverrse&theme=radical&hide_border=true" alt="streak" />
-</div>
+<h2>Consistency signal</h2>
 
-## 💼 Current Projects
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dreverrse&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63025746%3Fu%3Db1e3f52f1e98a8c7a33825e72f1fe64b5b974abf%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=dreverrse&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F63025746%3Fu%3Db1e3f52f1e98a8c7a33825e72f1fe64b5b974abf%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Andre Firmansah contribution activity" />
+</picture>
+</p>
 
-<div align="center">
+<hr />
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=dreverrse&repo=project1&theme=radical)](https://github.com/dreverrse/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=dreverrse&repo=project2&theme=radical)](https://github.com/dreverrse/project2)
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/dreverrse">GitHub</a></td>
+</tr>
+</table>
 
-</div>
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
-<div align="center">
+<p align="center"><sub>Andre Firmansah · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
