@@ -1,0 +1,59 @@
+name: Generate contribution graphs
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Generate Pac-Man and Breakout graphs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman,breakout"
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Collect 3D SVGs
+        run: cp profile-3d-contrib/*.svg dist/
+
+      - name: Make arcade SVGs responsive
+        run: |
+          python3 - <<'PY'
+          import glob, re
+          for path in glob.glob("dist/pacman-*.svg") + glob.glob("dist/breakout-*.svg"):
+              svg = open(path).read()
+              head = re.search(r"<svg\b[^>]*>", svg).group(0)
+              if "viewBox" not in head:
+                  width = re.search(r'\bwidth="([\d.]+)', head).group(1)
+                  height = re.search(r'\bheight="([\d.]+)', head).group(1)
+                  open(path, "w").write(svg.replace(head, head[:-1] + f' viewBox="0 0 {width} {height}">', 1))
+          PY
+
+      - name: Publish SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

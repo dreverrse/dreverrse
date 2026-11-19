@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="80" viewBox="0 0 480 80" role="img" aria-label="3D Contributions">
+  <title>3D Contributions</title>
+  <defs>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e0af68"/><stop offset="1" stop-color="#f7768e"/></linearGradient>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f7768e" stop-opacity=".7"/><stop offset="1" stop-color="#f7768e" stop-opacity="0"/></linearGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif; } .mono { font-family: 'SFMono-Regular', 'JetBrains Mono', Consolas, Menlo, monospace; }
+      .blink { animation: blink 1s steps(1) infinite; } @keyframes blink { 50% { opacity: 0; } }
+      .star { animation: twinkle 3s ease-in-out infinite; }
+      .s2 { animation-delay: .8s; } .s3 { animation-delay: 1.6s; } .s4 { animation-delay: 2.2s; }
+      @keyframes twinkle { 0%,100% { opacity: .9; } 50% { opacity: .15; } }
+      .pulse { animation: pulse 2s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes pulse { 0% { transform: scale(1); opacity: .8; } 100% { transform: scale(2.8); opacity: 0; } }
+
+      .dot { animation: run 4s ease-in-out infinite; }
+      @keyframes run { 0% { transform: translateX(0); opacity: 0; } 15%,85% { opacity: 1; } 100% { transform: translateX(106px); opacity: 0; } }
+    </style>
+  </defs>
+  <rect x="0" y="14" width="6" height="52" rx="3" fill="url(#t)"/>
+  <rect x="18" y="14" width="52" height="52" rx="14" fill="#e0af68" fill-opacity=".12" stroke="#e0af68" stroke-opacity=".45"/>
+  <text x="44" y="50" text-anchor="middle" font-size="26">🏙️</text>
+  <text x="84" y="44" class="sans" font-size="27" font-weight="800" fill="url(#t)">3D Contributions</text>
+  <text x="85" y="65" class="mono" font-size="13" fill="#565f89">❯ render --3d<tspan class="blink" fill="#a9b1d6">▌</tspan></text>
+  <rect x="364" y="40" width="106" height="2" rx="1" fill="url(#ln)"/><circle class="dot" cx="364" cy="41" r="4" fill="#f7768e"/>
+</svg>

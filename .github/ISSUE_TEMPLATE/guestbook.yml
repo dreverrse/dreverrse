@@ -1,0 +1,17 @@
+name: ✍️ Sign the guestbook
+description: Leave a short message. It shows up on my profile!
+title: "[guestbook] hi from "
+labels: ["guestbook"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for stopping by! 👋 Your message (max 120 characters) will appear in the guestbook on my profile.
+        Links and formatting are removed, so keep it simple.
+  - type: textarea
+    id: message
+    attributes:
+      label: Message
+      placeholder: "Nice profile! Svara looks cool 🎵"
+    validations:
+      required: true

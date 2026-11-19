@@ -1,0 +1,37 @@
+name: guestbook
+
+on:
+  issues:
+    types: [opened, edited, deleted]
+  workflow_dispatch:
+
+concurrency:
+  group: guestbook
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.issue.labels.*.name, 'guestbook')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: rebuild guestbook
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const run = require('./.github/scripts/guestbook.js');
+            await run({ github, context });
+
+      - name: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git commit -m "📖 Update guestbook"; then
+            git pull --rebase origin main
+            git push
+          fi

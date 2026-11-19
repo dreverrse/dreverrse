@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="300" viewBox="0 0 620 300" role="img" aria-label="A cozy coding desk on a quiet night">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1e1b4b"/><stop offset="1" stop-color="#0f172a"/></linearGradient><linearGradient id="screen" x2="1" y2="1"><stop stop-color="#083344"/><stop offset="1" stop-color="#312e81"/></linearGradient></defs>
+  <rect x="1" y="1" width="618" height="298" rx="22" fill="url(#bg)" stroke="#64748b" stroke-opacity=".35"/>
+  <circle cx="500" cy="70" r="32" fill="#c4b5fd" opacity=".18"/><circle cx="500" cy="70" r="19" fill="#ddd6fe" opacity=".8"/>
+  <path d="M48 218H572" stroke="#a78bfa" stroke-opacity=".6" stroke-width="4" stroke-linecap="round"/>
+  <rect x="186" y="70" width="250" height="142" rx="12" fill="#334155"/><rect x="196" y="80" width="230" height="120" rx="6" fill="url(#screen)"/>
+  <text x="212" y="109" fill="#67e8f9" font-family="monospace" font-size="12">$ neofetch</text><text x="212" y="133" fill="#c4b5fd" font-family="monospace" font-size="12">OS: Arch Linux</text><text x="212" y="153" fill="#e2e8f0" font-family="monospace" font-size="12">DE: ideas &amp; code</text><text x="212" y="176" fill="#34d399" font-family="monospace" font-size="12">ready to build_</text>
+  <path d="M170 218H454L432 237H192Z" fill="#475569"/><rect x="276" y="221" width="70" height="4" rx="2" fill="#94a3b8"/>
+  <g transform="translate(88 166)"><rect x="0" y="12" width="55" height="38" rx="8" fill="#f97316"/><path d="M55 20h9a10 10 0 0 1 0 20h-9" fill="none" stroke="#fdba74" stroke-width="5"/><path d="M13 4q-6-8 0-15m14 15q-6-8 0-15" fill="none" stroke="#cbd5e1" stroke-opacity=".65" stroke-width="2" stroke-linecap="round"/><text x="14" y="37" font-family="monospace" font-size="12" fill="#fff7ed">coffee</text></g>
+  <g transform="translate(484 153)"><path d="M30 62H4L8 34H26Z" fill="#a78bfa"/><path d="M17 37C-3 23 3 6 11 10c5 3 7 15 6 27Zm3 0C18 15 35 4 37 14c1 7-7 16-17 23Zm-2 0C7 20 10 2 18 7c7 4 6 18 0 30Z" fill="#34d399"/></g>
+  <g fill="#e2e8f0" opacity=".7"><circle cx="94" cy="71" r="2"/><circle cx="146" cy="104" r="1.5"/><circle cx="559" cy="118" r="2"/><circle cx="537" cy="44" r="1.5"/></g>
+</svg>
